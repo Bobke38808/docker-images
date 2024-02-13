@@ -6,7 +6,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: pterodactyl-ubuntu-24
+  IMAGE_NAME: bobke38808/pterodactyl-ubuntu-24
 
 jobs:
   build-and-push-image:
